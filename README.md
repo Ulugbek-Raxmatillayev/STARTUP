@@ -66,8 +66,8 @@ Hissa qo'shmoqchimisiz? Loyihani forklang, o'zgarishlar kiriting va `pull reques
 
 ## 👨‍💻 Mualliflar
 
-- **Muallif**: Sizning ismingiz
-- **E-pochta**: sizning.email@misol.com
+- **Muallif**: Xujamov Nodir, Raxmatillayev Ulugbek
+- **E-pochta**: ulugbekraxmatillayev615@gmail.com, noderjanoken@gmail.com
 
 ## 📜 Litsenziya
 
