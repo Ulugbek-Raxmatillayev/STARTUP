@@ -30,7 +30,7 @@ Loyihada quyidagi texnologiyalar va kutubxonalar ishlatilgan:
 1. Repozitoriyani yuklab oling yoki klon qiling:
 
     ```bash
-    git clone https://github.com/username/instagram-followers-growth.git
+    git clone https://github.com/Ulugbek-Raxmatillayev/startup.git
     ```
 
 2. Loyihani ishga tushirish uchun kerakli kutubxonalarni o'rnating:
